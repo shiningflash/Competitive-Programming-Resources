@@ -1,0 +1,3 @@
+Inbuilt GCD function: C++ has inbuilt GCD function and there is no need to explicitly code it. Syntax:
+  
+  __gcd(x, y);

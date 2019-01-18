@@ -1,0 +1,6 @@
+Avoiding use of strlen():
+
+  //  Use of strlen() can be avoided by: 
+  for (i=0; s[i]; i++) {
+  } 
+  // loop breaks when the character array ends. 

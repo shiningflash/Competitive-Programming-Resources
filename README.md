@@ -3,7 +3,7 @@ Programming Topics
 
 Data Structure
 --------------
-* Stack [link] (https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
+* Stack [link](https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
 * Queue
 * Linked List
 

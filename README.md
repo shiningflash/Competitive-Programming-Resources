@@ -117,12 +117,6 @@ Recursion
 
 ***Other links will be updated soon.***
 
-
+---------------------------------------
 
 # Author: [Amirul Islam](https://www.linkedin.com/in/amirulislamalmamun)
-``
-                   _
-   _|_ o._ o._  __|_| _. _|_
-  _>| ||| ||| |(_|| |(_|_>| |
-                _|
-``

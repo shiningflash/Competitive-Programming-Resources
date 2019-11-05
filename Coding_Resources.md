@@ -1,9 +1,8 @@
-[Why programming contest?](http://www.progkriya.org/feature/mirzayanov.html?fb_action_ids=1492016221067831&fb_action_types=og.likes) -  [Mike Mirzayanov](https://codeforces.com/profile/MikeMirzayanov)
+### [Why programming contest?](http://www.progkriya.org/feature/mirzayanov.html?fb_action_ids=1492016221067831&fb_action_types=og.likes) -  [Mike Mirzayanov](https://codeforces.com/profile/MikeMirzayanov)
  
-Some helpful links and resources that may help you [click here](http://codeforces.com/blog/entry/17550?)
+**Some helpful links and resources that may help you** [click here](http://codeforces.com/blog/entry/17550?)
  
-Some Necessary Resources: (Bangla Blog, tutorials link)
--------------------------------------------------------
+### Some Necessary Resources: (Bangla Blog, tutorials link)
 
 [Bangla Programming Resources](https://github.com/me-shaon/bangla-programming-resources)
 

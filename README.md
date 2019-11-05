@@ -108,6 +108,9 @@ Greedy Method
 -------------
 * Two Pointer
 
+Devide and Conquer
+------------------
+* [Meet in the middle](https://github.com/shiningflash/Algorithm_Basic/blob/master/Meet_in_the_Middle.cpp)
 
 Recursion
 ---------

@@ -1,0 +1,32 @@
+[Why programming contest?](http://www.progkriya.org/feature/mirzayanov.html?fb_action_ids=1492016221067831&fb_action_types=og.likes) -  [Mike Mirzayanov](https://codeforces.com/profile/MikeMirzayanov)
+ 
+[Some helpful links and resources that may help you](http://codeforces.com/blog/entry/17550?)
+ 
+Some Necessary Resources: (Bangla Blog, tutorials link)
+-------------------------------------------------------
+https://github.com/me-shaon/bangla-programming-resources
+Algorithm List and Technique List:
+https://goo.gl/B4tdx2
+Geometry Resources:
+https://goo.gl/fJj56I
+Number Theory Resources:
+https://goo.gl/ASU6sW
+
+https://www.codechef.com/certification/prepare#foundation-mock
+
+https://github.com/sindresorhus/awesome
+
+Topicwise resources (Datastructure)
+TAHANIMA CHOWDHURY
+https://www.facebook.com/notes/bracu-programming-contest-enthusiasts/topicwise-resources-datastructure/1885231821749717/
+
+স্ট্যান্ডার্ড টেম্প্লেট লাইব্রেরী 
+https://sites.google.com/site/smilitude/cpp
+
+https://tanvir002700.wordpress.com/
+
+Common mistakes in online and real-time contests
+https://xrds.acm.org/article.cfm?aid=1375976
+https://codeforces.com/blog/entry/51233
+___________________________________________
+Happy Coding!

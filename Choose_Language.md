@@ -1,9 +1,9 @@
 Language to be used for Competitive Programming
 ===============================================
 
-This is a question asked quite often as in which language should be preferred to be efficient in competitive programming.
+This is a question asked quite often as in which language should be preferred to be efficient in `competitive programming`.
 It is something one should not worry about as what matters is the logic not the language.
-Most of the languages are more or less same, but till now the most  proffered language is `C++` and here are the reasons.
+Most of the languages are more or less same, but till now the most proffered language is `C++` and here are the reasons.
 
 ---------------
 
@@ -20,6 +20,8 @@ Python
 **Python is not allowed everywhere:** Python is not allowed in contests in various popular online competitive programming portals.
 
 Now we are mostly left with `Java`, `C`, `C++`,  now here it becomes difficult to compare and is mostly dependent on the user but let’s discuss the good and the bad points of each of the them.
+
+---------------------------
 
 Java
 ----
@@ -45,11 +47,11 @@ C++ and C
 
 Parametrized types The template keyword allows the programmer to write generic (type-agnostic) implementations of algorithms. Where in `C`, one could write a generic list implementation with an element like:
 ```
-    struct element_t 
-    {
-       struct element_t *next, *prev;
-       void *element;
-    };
+struct element_t 
+{
+   struct element_t *next, *prev;
+   void *element;
+};
 ```
 
 **C++ allows one to write something like:**
@@ -93,4 +95,4 @@ Happy Coding!!
 
 ----------------
 
-Reference: [geeksforgeeks](https://www.geeksforgeeks.org/tips-and-tricks-for-competitive-programmers-set-2-which-language-should-be-used-for-competitive-programming) [unthought.net](http://unthought.net/c++/c_vs_c++.html)
+Reference: * [geeksforgeeks](https://www.geeksforgeeks.org/tips-and-tricks-for-competitive-programmers-set-2-which-language-should-be-used-for-competitive-programming) * [unthought.net](http://unthought.net/c++/c_vs_c++.html)

@@ -8,7 +8,7 @@ Data Structure
 * Linked List
 
 ### Advance
-* Disjoint Set Unit
+* [Disjoint Set Unit](https://github.com/shiningflash/advance-data-structure/blob/master/DisjointSetUnit.cpp)
 * [SQRT Decomposition](https://github.com/shiningflash/advance-data-structure/blob/master/sqrt_decomposition.cpp)
 * [Segment Tree](https://github.com/shiningflash/advance-data-structure/blob/master/segment_tree.cpp)
 * [Lazy Propagation](https://github.com/shiningflash/advance-data-structure/blob/master/lazy_propagation.cpp)

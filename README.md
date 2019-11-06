@@ -106,7 +106,7 @@ Sorting
 
 Greedy Method
 -------------
-* Two Pointer
+* [Two Pointer](https://github.com/shiningflash/Algorithm_Basic/blob/master/Two_Pointer.cpp)
 
 Devide and Conquer
 ------------------

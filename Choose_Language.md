@@ -1,9 +1,11 @@
+Language to be used for Competitive Programming
+===============================================
 
-Tips and Tricks for Competitive Programmers | Set 2 (Language to be used for Competitive Programming)
+This is a question asked quite often as in which language should be preferred to be efficient in competitive programming.
+It is something one should not worry about as what matters is the logic not the language.
+Most of the languages are more or less same, but till now the most  proffered language is `C++` and here are the reasons.
 
-This is a question asked quite often as in which language should be preferred to be efficient in competitive programming. It is something one should not worry about as what matters is the logic not the language. Most of the languages are more or less same ,but till now the most  proffered language is C++ and here are the reasons.
-
-Python
+# Python
 
     Simple and Easy: Python is simple, easy to write (we need to type less), and has a huge collection of modules with almost all the functions you can imagine.
 

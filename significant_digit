@@ -1,8 +1,0 @@
-Calculating the most significant digit:
-To calculate the most significant digit of any number log can be directly used to calculate it.
-
-  Suppose the number is N then 
-  Let double K = log10(N);
-  now K = K - floor(K);
-  int X = pow(10, K);
-  X will be the most significant digit.

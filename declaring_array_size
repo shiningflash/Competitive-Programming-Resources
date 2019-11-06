@@ -1,3 +1,0 @@
-Maximum size of the array:
-We must be knowing that the maximum size of array declared inside the main function is of the order of 10^6
-but if you declare array globally then you can declare its size upto 10^7.

@@ -7,7 +7,7 @@ Data Structure
 * [Queue](https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
 * Linked List
 
-### Advance
+**Advance**
 * [Disjoint Set Unit](https://github.com/shiningflash/advance-data-structure/blob/master/DisjointSetUnit.cpp)
 * [SQRT Decomposition](https://github.com/shiningflash/advance-data-structure/blob/master/sqrt_decomposition.cpp)
 * [Segment Tree](https://github.com/shiningflash/advance-data-structure/blob/master/segment_tree.cpp)
@@ -28,7 +28,7 @@ STL
 * Pair
 * Struct
 
-### Advance
+**Advance**
 * [Ordered Set](https://github.com/shiningflash/advance-data-structure/blob/master/ordered_set.cpp)
 
 
@@ -51,7 +51,7 @@ Number Theory
 * N-th Permutation
 * Probability / Expected Value
 
-### Advance
+**Advance**
 * [Bitwise-Sieve](https://github.com/shiningflash/Algorithm_Basic/blob/master/bitwise_sieve.cpp)
 
 
@@ -65,12 +65,12 @@ Graph Theory
 * [Topological Sort](https://github.com/shiningflash/Graph-Algorithm/blob/master/TopologicalSort.cpp)
 * Strongly Connected Component
 
-### Shortest Path Problem
+**Shortest Path Problem**
 * [Dijkstra Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/dijkstra.cpp)
 * [Floyd-Warshall Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/floyd_warshall.cpp)
 * [Bellman Ford Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/bellman_ford.cpp)
 
-### Minimum Spanning Tree (MST)
+**Minimum Spanning Tree (MST)**
 * [Prim's Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/Prims_MST.cpp)
 * [Kruskal Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/Kruskal_MST.cpp)
 

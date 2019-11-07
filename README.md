@@ -45,8 +45,8 @@ Number Theory
 * GCD
 * LCM
 * [Prime Generator (Sieve of Erathosthenos)](https://github.com/shiningflash/Algorithm_Basic/blob/master/sieve_of_Eratosthenes.cpp)
-* Modular Arithmetic
-* Big Mod
+* [Modular Arithmetic](https://github.com/shiningflash/Algorithm_Basic/blob/master/Modular_Arithmetic.cpp)
+* [Big Mod](https://github.com/shiningflash/Algorithm_Basic/blob/master/Big_Mod.cpp)
 * Number of Divisor
 * N-th Permutation
 * Probability / Expected Value

@@ -1,7 +1,7 @@
 Some common resources for CSE419 LAB MID
 ========================================
 
-### Searching
+# Searching
 
 **Lower Bound:**
 ```
@@ -13,7 +13,6 @@ int pos = lower_bound(v.begin(), v.end(), key) - v.begin();
 
 // a = {10, 20, 30, 30, 40, 50} // find 35? // ans = 4
 ```
----------------------
 
 **Upper Bound:**
 ```
@@ -25,7 +24,6 @@ int pos = upper_bound(v.begin(), v.end(), key) - v.begin();
 
 // a = {10, 20, 30, 30, 40, 50} // find 50? // ans = 6
 ```
---------------------
 
 **Binary Search:**
 ```
@@ -50,7 +48,7 @@ int sz = sizeof(arr) / sizeof(arr[0]);
 ```
 -----------------
 
-### Number Theory:
+# Number Theory:
 
 **LCM (m, n):**
 ```
@@ -59,7 +57,6 @@ cout << lcm(10, 20) << endl; // print 20
 
 // lcm(10, 20) = (200 / 10) = 20
 ```
-----------------
 
 **GCD (m, n):**
 ```
@@ -75,7 +72,6 @@ int gcd(int m, int n) {
 
 int gcd = __gcd(6, 20); // print 2
 ```
----------------
 
 **Sieve (prime number generator):**
 ```
@@ -96,7 +92,7 @@ void sieve() {
 ```
 ----------------
 
-### STL:
+# STL:
 
 **map:**
 ```
@@ -111,7 +107,6 @@ map <char, string> mc;
 mc['k'] = "Kabbya Kantam"
 cout << mc['k'] << endl;
 ```
----------------------
 
 **Set:**
 * ascending input
@@ -125,7 +120,6 @@ struct cmp {
 
 set <int, cmp> s;
 ```
--------------------------
 
 **Struct:**
 ```
@@ -150,7 +144,6 @@ struct cmp() {
         return p1.id < p2.id;
     }
 };
-
 
 // main function
 

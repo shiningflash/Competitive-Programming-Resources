@@ -1,5 +1,10 @@
-Lower Bound:
+Some common resources for CSE419 LAB MID
+========================================
 
+### Searching
+
+**Lower Bound:**
+```
 // array
 int pos = lower_bound(arr, arr+n, key) - arr;
 
@@ -7,10 +12,11 @@ int pos = lower_bound(arr, arr+n, key) - arr;
 int pos = lower_bound(v.begin(), v.end(), key) - v.begin();
 
 // a = {10, 20, 30, 30, 40, 50} // find 35? // ans = 4
+```
+---------------------
 
-
-Upper Bound:
-
+**Upper Bound:**
+```
 // array
 int pos = upper_bound(arr, arr+n, key) - arr;
 
@@ -18,10 +24,11 @@ int pos = upper_bound(arr, arr+n, key) - arr;
 int pos = upper_bound(v.begin(), v.end(), key) - v.begin();
 
 // a = {10, 20, 30, 30, 40, 50} // find 50? // ans = 6
+```
+--------------------
 
-
-Binary Search:
-
+**Binary Search:**
+```
 int binary_search(int arr[], int size, int key) {
    int low = 0, high = size - 1, mid;
    while (low <= high) {
@@ -33,38 +40,45 @@ int binary_search(int arr[], int size, int key) {
    return -1; // not found
 }
 
-Complexity: O ( log2 ( N ) )
+// Complexity: O ( log2 ( N ) )
+```
+-----------------
 
-Array Size:
-
+**Array Size:**
+```
 int sz = sizeof(arr) / sizeof(arr[0]);
-Number Theory:
+```
+-----------------
 
+### Number Theory:
 
-LCM (m, n):
-
+**LCM (m, n):**
+```
 // logic: lcm(a, b) = (a*b) / gcd(a,b)
 cout << lcm(10, 20) << endl; // print 20
 
 // lcm(10, 20) = (200 / 10) = 20
+```
+----------------
 
-
-GCD (m, n):
-
-// by writing function
+**GCD (m, n):**
+```
+// 1. by writing function
 
 int gcd(int m, int n) {
    if (m == 0) return n;
    return gcd(n%m, m);
 }
-
-// using by default function
+```
+```
+// 2. using by default function
 
 int gcd = __gcd(6, 20); // print 2
+```
+---------------
 
-
-Sieve (prime number generator):
-
+**Sieve (prime number generator):**
+```
 const int mx = 1e5;
 
 int arr[mx+5];
@@ -79,10 +93,13 @@ void sieve() {
        }
    }
 }
-STL:
+```
+----------------
 
-map:
+### STL:
 
+**map:**
+```
 map<string, int> mp;
 mp[1] = "Abdur Rahman";
 
@@ -93,12 +110,13 @@ mp[10000] = "Amirul"
 map <char, string> mc;
 mc['k'] = "Kabbya Kantam"
 cout << mc['k'] << endl;
+```
+---------------------
 
-
-Set:
-1. ascending input
-2. ignore duplicate
-
+**Set:**
+* ascending input
+* ignore duplicate
+```
 struct cmp {
    bool operator() (const int& l, const int& r) {
        return l > r;
@@ -106,10 +124,11 @@ struct cmp {
 };
 
 set <int, cmp> s;
+```
+-------------------------
 
-
-Struct:
-
+**Struct:**
+```
 // name, id, addr
 
 #define pii pair <int, int>
@@ -143,6 +162,6 @@ sort(p, p+3);
 for (int i = 0; i < 3; i++) {
    cout << p[i].name << " " << p[i].id << " " << p[i].addr << endl;
 }
-
-
-Prepared by: Amirul Islam
+```
+-------------------
+### Prepared by: [Amirul Islam](linkedin.com/in/amirulislamalmamun)

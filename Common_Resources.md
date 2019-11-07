@@ -95,25 +95,19 @@ void sieve() {
 # STL:
 
 **vector**
-Vectors are same as dynamic arrays with the ability to resize.
+* Vectors are same as dynamic arrays with the ability to resize.
 ```
 // initialize : vector <data_type> vector_name;
 vector <int> vec;
 
-// insert value at back
 vec.push_back(12); // vec : 12
 vec.push_back(3); // vec : 12, 3
 
-// vector size
 vec.size();
 
-// get front value
 int n = vec.front(); // n = 12
-
-// get last value
 int n = vec.back(); // n = 3
 
-// sort vector
 sort(vec.begin(), vec.end()); // vec : 3, 12
 ```
 
@@ -189,6 +183,8 @@ pq.pop(); // 30 popped, pq = {20, 10}
 ```
 
 **map:**
+* Each element has a key value and a mapped value.
+* No two mapped values can have same key values.
 ```
 map<string, int> mp;
 mp[1] = "Abdur Rahman";

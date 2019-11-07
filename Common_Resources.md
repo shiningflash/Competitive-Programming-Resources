@@ -3,7 +3,7 @@ Some common resources for CSE419 LAB MID
 
 # Searching
 
-**Lower Bound:**
+### Lower Bound:
 ```
 // array
 int pos = lower_bound(arr, arr+n, key) - arr;
@@ -14,7 +14,7 @@ int pos = lower_bound(v.begin(), v.end(), key) - v.begin();
 // a = {10, 20, 30, 30, 40, 50} // find 35? // ans = 4
 ```
 
-**Upper Bound:**
+### Upper Bound:
 ```
 // array
 int pos = upper_bound(arr, arr+n, key) - arr;
@@ -25,7 +25,7 @@ int pos = upper_bound(v.begin(), v.end(), key) - v.begin();
 // a = {10, 20, 30, 30, 40, 50} // find 50? // ans = 6
 ```
 
-**Binary Search:**
+### Binary Search:
 ```
 int binary_search(int arr[], int size, int key) {
    int low = 0, high = size - 1, mid;
@@ -42,7 +42,7 @@ int binary_search(int arr[], int size, int key) {
 ```
 -----------------
 
-**Array Size:**
+### Array Size:
 ```
 int sz = sizeof(arr) / sizeof(arr[0]);
 ```
@@ -50,7 +50,7 @@ int sz = sizeof(arr) / sizeof(arr[0]);
 
 # Number Theory:
 
-**LCM (m, n):**
+### LCM (m, n):
 ```
 // logic: lcm(a, b) = (a*b) / gcd(a,b)
 cout << lcm(10, 20) << endl; // print 20
@@ -58,7 +58,7 @@ cout << lcm(10, 20) << endl; // print 20
 // lcm(10, 20) = (200 / 10) = 20
 ```
 
-**GCD (m, n):**
+### GCD (m, n):
 ```
 // 1. by writing function
 
@@ -73,7 +73,7 @@ int gcd(int m, int n) {
 int gcd = __gcd(6, 20); // print 2
 ```
 
-**Sieve (prime number generator):**
+### Sieve (prime number generator):
 ```
 const int mx = 1e5;
 
@@ -94,7 +94,7 @@ void sieve() {
 
 # STL:
 
-**vector**
+### vector
 * Vectors are same as dynamic arrays with the ability to resize.
 ```
 // initialize : vector <data_type> vector_name;
@@ -111,7 +111,7 @@ int n = vec.back(); // n = 3
 sort(vec.begin(), vec.end()); // vec : 3, 12
 ```
 
-**stack**
+### stack
 * Stack is a linear data structure
 * mechanism: LIFO (Last in, First out)
 ```
@@ -138,7 +138,7 @@ void showstack(stack <int> s) {
 }
 ```
 
-**queue**
+### queue
 * Queue is a linear data structure
 * mechanism: FIFO (First in, First out)
 ```
@@ -153,7 +153,7 @@ int sizeOfQueue = q.size();
 bool flag = q.empty(); // q = {}, flag = false;
 ```
 
-**deque**
+### deque
 * The functions for deque are same as vector, with an addition of push and pop operations for both front and back.
 * More efficient in case of insertion and deletion of elements than vector.
 ```
@@ -166,13 +166,13 @@ d.pop_back(); // d = {3}, 12 removed
 d.pop_front(); // d ={}, 3 removed
 ```
 
-**Priority_queue**
+### Priority_queue
 ```
 priority_queue <data_type> any_name; // maintain desending order
 priority_queue <int, vector<int>, greater<int>> any_name; // maintain assending order
 ```
 same as queue with operation:
-`push()`, `pop()`, `size()`, `top()`, `empty()`, `front()`, `push_back()`, `pop_back()`
+* `push()`, `pop()`, `size()`, `top()`, `empty()`, `front()`, `push_back()`, `pop_back()`
 ```
 priority_queue <int> pq; 
 pq.push(10); // pq = {10} 
@@ -182,7 +182,7 @@ int n = pq.top(); // n = 30
 pq.pop(); // 30 popped, pq = {20, 10}
 ```
 
-**map:**
+### map:
 * Each element has a key value and a mapped value.
 * No two mapped values can have same key values.
 ```
@@ -198,7 +198,7 @@ mc['k'] = "Kabbya Kantam"
 cout << mc['k'] << endl;
 ```
 
-**Set:**
+### Set:
 * ascending input
 * ignore duplicate
 ```
@@ -224,7 +224,7 @@ for (it = s.begin(); it != s.end(); it++) {
 }
 ```
 
-**Struct:**
+### Struct:
 ```
 // name, id, addr
 

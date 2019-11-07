@@ -94,6 +94,100 @@ void sieve() {
 
 # STL:
 
+**vector**
+Vectors are same as dynamic arrays with the ability to resize.
+```
+// initialize : vector <data_type> vector_name;
+vector <int> vec;
+
+// insert value at back
+vec.push_back(12); // vec : 12
+vec.push_back(3); // vec : 12, 3
+
+// vector size
+vec.size();
+
+// get front value
+int n = vec.front(); // n = 12
+
+// get last value
+int n = vec.back(); // n = 3
+
+// sort vector
+sort(vec.begin(), vec.end()); // vec : 3, 12
+```
+
+**stack**
+* Stack is a linear data structure
+* mechanism: LIFO (Last in, First out)
+```
+//  initialize
+stack <int> s;
+
+s.push(4); // insert value
+int n =  s.top(); // n = 4
+s.pop(); // remove value 4
+
+bool flag = s.empty(); // s = {}, flag = false;
+
+int sizeOfStack = s.size(); // s = {}, sizeOfStack = 0
+
+showstack(s);
+```
+```
+void showstack(stack <int> s) { 
+    while (!s.empty()){
+        cout <<  s.top(); 
+        s.pop(); 
+    } 
+    cout << '\n'; 
+}
+```
+
+**queue**
+* Queue is a linear data structure
+* mechanism: FIFO (First in, First out)
+```
+queue <int> q; // initialize
+
+q.push(4); // q = {4}
+int a = q.front(); // n = 4
+q.pop(); // remove value 4
+   
+int sizeOfQueue = q.size();
+
+bool flag = q.empty(); // q = {}, flag = false;
+```
+
+**deque**
+* The functions for deque are same as vector, with an addition of push and pop operations for both front and back.
+* More efficient in case of insertion and deletion of elements than vector.
+```
+deque <int> d; // declaration
+push_back(12); // d = {12};
+push_front(3); // d = {3, 12}
+int n = d.front(); // n = 3
+int m = d.back(); // m = 12;
+d.pop_back(); // d = {3}, 12 removed
+d.pop_front(); // d ={}, 3 removed
+```
+
+**Priority_queue**
+```
+priority_queue <data_type> any_name; // maintain desending order
+priority_queue <int, vector<int>, greater<int>> any_name; // maintain assending order
+```
+same as queue with operation:
+`push()`, `pop()`, `size()`, `top()`, `empty()`, `front()`, `push_back()`, `pop_back()`
+```
+priority_queue <int> pq; 
+pq.push(10); // pq = {10} 
+pq.push(30); // pq = {30, 10}
+pq.push(20); // pq = {30, 20, 10}
+int n = pq.top(); // n = 30
+pq.pop(); // 30 popped, pq = {20, 10}
+```
+
 **map:**
 ```
 map<string, int> mp;
@@ -117,8 +211,21 @@ struct cmp {
        return l > r;
    }
 };
+```
+```
+set <int> s; // declaration
 
-set <int, cmp> s;
+// set <int, cmp> s; // customized decending ordered set declaration
+
+s.insert(12); // s = {12}
+s.insert(12); // s = {12}, ingonred duplicate
+s.insert(3); // s = {3, 12}, remain assending order
+
+// print set
+set <int>::iterator it;
+for (it = s.begin(); it != s.end(); it++) {
+    cout << *it << endl;
+}
 ```
 
 **Struct:**
@@ -133,18 +240,21 @@ set <int, cmp> s;
 
 // person = custom variable type
 // cmp() = custom method
-
+```
+```
 struct person {
     string name, id, addr;
 };
-
+```
+```
 struct cmp() {
     bool operator() (const person& p1, const person& p2) {
         if (p1.id != p2.id) p1.id < p2.id;
         return p1.id < p2.id;
     }
 };
-
+```
+```
 // main function
 
 person p[3];

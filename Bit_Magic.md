@@ -169,4 +169,40 @@ Example
 ```
 --------------------------
 
+* **Genarate all possible subset**
+```
+void possibleSubset(int A[], int N) {
+    for (int i = 0; i < (1 << N); i++) {
+        for (int j = 0; j < N; j++) {
+            if (i & (1 << j)) {
+                cout << A[j] << " ";
+            }
+        }
+        cout << endl;
+    }
+}
+```
+```
+Let, A = {a,b,c}
+
+0 = (000)2 = {}
+1 = (001)2 = {c}
+2 = (010)2 = {b}
+3 = (011)2 = {b, c}
+4 = (100)2 = {a}
+5 = (101)2 = {a, c}
+6 = (110)2 = {a, b}
+7 = (111)2 = {a, b, c}
+```
+------------------------------
+
+* **`i'th` bit set, check, clear, flip**
+```
+set bit      : S |= (1<<i)
+check bit    : S & (1<<i)
+clear bit    : S &= ~(1<<i)
+flip bit     : S ^= ~(1<<i)
+```
+----------------------------
+
 source: https://www.geeksforgeeks.org/bit-tricks-competitive-programming/

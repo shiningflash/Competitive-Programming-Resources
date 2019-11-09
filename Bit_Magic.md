@@ -205,4 +205,4 @@ flip bit     : S ^= ~(1<<i)
 ```
 ----------------------------
 
-source: https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+source: * [geeksforgeeks](https://www.geeksforgeeks.org/bit-tricks-competitive-programming) * [returnzero](https://returnzerooo.wordpress.com/2016/06/30/বিটের-মজা-মজার-বিট)

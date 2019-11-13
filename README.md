@@ -1,4 +1,4 @@
-Programming Topics
+[Programming Topics](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/README.md)
 ==================
 
 [Data Structure](https://github.com/shiningflash/advance-data-structure)

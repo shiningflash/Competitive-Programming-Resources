@@ -1,7 +1,7 @@
 Programming Topics
 ==================
 
-Data Structure
+[Data Structure](https://github.com/shiningflash/advance-data-structure)
 --------------
 * [Stack](https://github.com/shiningflash/advance-data-structure/blob/master/stack.cpp)
 * [Queue](https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
@@ -32,7 +32,7 @@ STL
 * [Ordered Set](https://github.com/shiningflash/advance-data-structure/blob/master/ordered_set.cpp)
 
 
-Searching Algorithm
+[Searching Algorithm](https://github.com/shiningflash/Algorithm_Basic)
 -------------------
 * Linear Search
 * [Binary Search](https://github.com/shiningflash/Algorithm_Basic/blob/master/binary_search.cpp)
@@ -40,7 +40,7 @@ Searching Algorithm
 * Ternary Search
 
 
-Number Theory
+[Number Theory](https://github.com/shiningflash/Algorithm_Basic)
 -------------
 * GCD
 * LCM
@@ -55,7 +55,7 @@ Number Theory
 * [Bitwise-Sieve](https://github.com/shiningflash/Algorithm_Basic/blob/master/bitwise_sieve.cpp)
 
 
-Graph Theory
+[Graph Theory](https://github.com/shiningflash/Graph-Algorithm)
 ------------
 * [Graph Representation](https://github.com/shiningflash/Graph-Algorithm/blob/master/Graph_Representation3.cpp)
 * [BFS](https://github.com/shiningflash/Graph-Algorithm/blob/master/BFS.cpp)
@@ -63,7 +63,7 @@ Graph Theory
 * [DFS](https://github.com/shiningflash/Graph-Algorithm/blob/master/DFS.cpp)
 * [Top Sort](https://github.com/shiningflash/Graph-Algorithm/blob/master/TopSort.cpp)
 * [Topological Sort](https://github.com/shiningflash/Graph-Algorithm/blob/master/TopologicalSort.cpp)
-* Strongly Connected Component
+* [Strongly Connected Component](https://github.com/shiningflash/Graph-Algorithm/blob/master/Strongly_Connected_Component.cpp)
 * [Flood Fill Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/Flood_Fill_Algorithm.cpp)
 
 **Shortest Path Problem**
@@ -76,7 +76,7 @@ Graph Theory
 * [Kruskal Algorithm](https://github.com/shiningflash/Graph-Algorithm/blob/master/Kruskal_MST.cpp)
 
 
-Dynamic Programming
+[Dynamic Programming](https://github.com/shiningflash/DP-solution)
 -------------------
 * [Fibonacci Number](https://github.com/shiningflash/DP-solution/blob/master/fibonacci.cpp)
 * [Binomial Coefficient](https://github.com/shiningflash/DP-solution/blob/master/bionomialCOEFFICIENT.cpp)
@@ -105,11 +105,11 @@ Sorting
 * Insertion Sort
 
 
-Greedy Method
+[Greedy Method](https://github.com/shiningflash/Algorithm_Basic)
 -------------
 * [Two Pointer](https://github.com/shiningflash/Algorithm_Basic/blob/master/Two_Pointer.cpp)
 
-Devide and Conquer
+[Devide and Conquer](https://github.com/shiningflash/Algorithm_Basic)
 ------------------
 * [Meet in the middle](https://github.com/shiningflash/Algorithm_Basic/blob/master/Meet_in_the_Middle.cpp)
 

@@ -51,6 +51,11 @@ STL
 * N-th Permutation
 * Probability / Expected Value
 
+[**Primality Test**](https://github.com/shiningflash/Algorithm_Basic/tree/master/Primality%20Test)
+* [School Method](https://github.com/shiningflash/Algorithm_Basic/blob/master/Primality%20Test/School_Method_Primality_Test.cpp)
+* [Fermat's Method](https://github.com/shiningflash/Algorithm_Basic/blob/master/Primality%20Test/Fermats_Method_Primality_Test.cpp)
+* Miller Rabin
+
 **Advance**
 * [Bitwise-Sieve](https://github.com/shiningflash/Algorithm_Basic/blob/master/bitwise_sieve.cpp)
 

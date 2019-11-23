@@ -91,7 +91,7 @@ As we can see if we set `5th` bit of upper case characters, it will be converted
 Example-
     ch = ‘A’ (01000001)
     mask = ‘ ‘ (00100000)
-    ch | mask = ‘a’ (01100001)
+    ch |= mask = ‘a’ (01100001)
 ```
 Please refer Case conversion (Lower to Upper and Vice Versa) for details.
 
@@ -114,8 +114,8 @@ As we can see if we clear 5th bit of lower case characters, it will be converted
 ```
 Example-
     ch = ‘a’ (01100001)
-    mask = ‘_ ‘ (11011111)
-    ch | mask = ‘A’ (01000001)
+    mask = ‘_‘ (11011111)
+    ch &= mask = ‘A’ (01000001)
 ```
 Please refer Case conversion (Lower to Upper and Vice Versa) for details.
 

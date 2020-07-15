@@ -44,12 +44,15 @@ STL
 -------------
 * GCD
 * LCM
-* [Prime Generator (Sieve of Erathosthenos)](https://github.com/shiningflash/Algorithm_Basic/blob/master/sieve_of_Eratosthenes.cpp)
-* [Modular Arithmetic](https://github.com/shiningflash/Algorithm_Basic/blob/master/Modular_Arithmetic.cpp)
-* [Big Mod](https://github.com/shiningflash/Algorithm_Basic/blob/master/Big_Mod.cpp)
-* Number of Divisor
-* N-th Permutation
-* Probability / Expected Value
+* [Prime Generator (Sieve of Erathosthenos)](https://github.com/shiningflash/Number-Theory/blob/master/sieve_of_Eratosthenes.cpp)
+* [Goldbach Conjecture](https://github.com/shiningflash/Number-Theory/blob/master/goldbach_conjecture.cpp)
+* [Modular Arithmetic](https://github.com/shiningflash/Number-Theory/blob/master/Modular_Arithmetic.cpp)
+* [Big Mod](https://github.com/shiningflash/Number-Theory/blob/master/Big_Mod.cpp)
+* [Number of Digit](https://github.com/shiningflash/Number-Theory/blob/master/number_of_digit.cpp)
+* [Euler Totient Function](https://github.com/shiningflash/Number-Theory/blob/master/euler_totient_function.cpp)
+* [Number of Divisor](https://github.com/shiningflash/Number-Theory/blob/master/number_of_divisor.cpp)
+* [Sum of Divisor](https://github.com/shiningflash/Number-Theory/blob/master/sum_of_divisor.cpp)
+* [All Possible Subset](https://github.com/shiningflash/Number-Theory/blob/master/AllPossibleSubset.cpp)
 
 [**Primality Test**](https://github.com/shiningflash/Algorithm_Basic/tree/master/Primality%20Test)
 * [School Method](https://github.com/shiningflash/Algorithm_Basic/blob/master/Primality%20Test/School_Method_Primality_Test.cpp)
@@ -58,7 +61,10 @@ STL
 
 **Advance**
 * [Bitwise-Sieve](https://github.com/shiningflash/Algorithm_Basic/blob/master/bitwise_sieve.cpp)
-
+* [Segmented Sieve](https://github.com/shiningflash/Number-Theory/tree/master/Segmented%20Sieve)
+* [Extended Euclidean Algorithm](https://github.com/shiningflash/Number-Theory/blob/master/extended_euclidean_algorithm.cpp)
+* [Modular Multiplicative Inverse](https://github.com/shiningflash/Number-Theory/blob/master/modular_multiplicative_inverse.cpp)
+* [Chinese Remainder Theorem](https://github.com/shiningflash/Number-Theory/blob/master/chinese_remainder_theorem.cpp)
 
 [Graph Theory](https://github.com/shiningflash/Graph-Algorithm)
 ------------

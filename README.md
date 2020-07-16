@@ -46,6 +46,7 @@ STL
 * LCM
 * [Prime Generator (Sieve of Erathosthenos)](https://github.com/shiningflash/Number-Theory/blob/master/sieve_of_Eratosthenes.cpp)
 * [Goldbach Conjecture](https://github.com/shiningflash/Number-Theory/blob/master/goldbach_conjecture.cpp)
+* [Find All Divisor](https://github.com/shiningflash/Number-Theory/tree/master)
 * [Modular Arithmetic](https://github.com/shiningflash/Number-Theory/blob/master/Modular_Arithmetic.cpp)
 * [Big Mod](https://github.com/shiningflash/Number-Theory/blob/master/Big_Mod.cpp)
 * [Number of Digit](https://github.com/shiningflash/Number-Theory/blob/master/number_of_digit.cpp)

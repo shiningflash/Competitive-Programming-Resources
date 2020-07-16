@@ -64,6 +64,7 @@ STL
 * [Segmented Sieve](https://github.com/shiningflash/Number-Theory/tree/master/Segmented%20Sieve)
 * [Extended Euclidean Algorithm](https://github.com/shiningflash/Number-Theory/blob/master/extended_euclidean_algorithm.cpp)
 * [Modular Multiplicative Inverse](https://github.com/shiningflash/Number-Theory/blob/master/modular_multiplicative_inverse.cpp)
+* [Fermat's Little Theorem](https://github.com/shiningflash/Number-Theory/blob/master/fermats_little_theorem.cpp)
 * [Chinese Remainder Theorem](https://github.com/shiningflash/Number-Theory/blob/master/chinese_remainder_theorem.cpp)
 
 [Graph Theory](https://github.com/shiningflash/Graph-Algorithm)

@@ -8,6 +8,7 @@
 * Linked List
 
 **Advance**
+* [Binary Search Tree](https://github.com/shiningflash/Advance-Data-Structure/blob/master/Binary_Search_Tree.cpp)
 * [Disjoint Set Unit](https://github.com/shiningflash/advance-data-structure/blob/master/DisjointSetUnit.cpp)
 * [SQRT Decomposition](https://github.com/shiningflash/advance-data-structure/blob/master/sqrt_decomposition.cpp)
 * [Segment Tree](https://github.com/shiningflash/advance-data-structure/blob/master/segment_tree.cpp)

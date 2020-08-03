@@ -132,9 +132,9 @@ Recursion
 * Permutation Generator
 * Tower of Hanoi
 
-
-***Other links will be updated soon.***
-
 ---------------------------------------
+## License & copyright
 
-# Author: [Amirul Islam](https://www.linkedin.com/in/amirulislamalmamun)
+© Amirul Islam, Competitive Programmer
+
+Licensed under [MIT License](LICENSE)

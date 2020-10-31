@@ -1,6 +1,10 @@
 [Programming Topics](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/README.md)
 ==================
 
+[GET MY CODE LIBRARY](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/Shiningflash%20CodeLibrary.pdf)
+
+--------------
+
 [Data Structure](https://github.com/shiningflash/advance-data-structure)
 --------------
 * [Stack](https://github.com/shiningflash/advance-data-structure/blob/master/stack.cpp)

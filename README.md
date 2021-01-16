@@ -9,7 +9,7 @@
 --------------
 * [Stack](https://github.com/shiningflash/advance-data-structure/blob/master/stack.cpp)
 * [Queue](https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
-* Linked List
+* [Linked List](https://github.com/shiningflash/Advance-Data-Structure/blob/master/linked_list.cpp)
 
 **Advance**
 * [Queue with stack](https://github.com/shiningflash/Advance-Data-Structure/blob/master/queue_using_stack.cpp) (Using 2 stack, Time efficient)

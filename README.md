@@ -12,6 +12,8 @@
 * Linked List
 
 **Advance**
+* [Queue with stack](https://github.com/shiningflash/Advance-Data-Structure/blob/master/queue_using_stack.cpp) (Using 2 stack, Time efficient)
+* [Queue with stack](https://github.com/shiningflash/Advance-Data-Structure/blob/master/queue_using_1_stack.cpp) (Using 1 stack, Time in-efficient)
 * [Binary Search Tree](https://github.com/shiningflash/Advance-Data-Structure/blob/master/Binary_Search_Tree.cpp)
 * [Disjoint Set Unit](https://github.com/shiningflash/advance-data-structure/blob/master/DisjointSetUnit.cpp)
 * [SQRT Decomposition](https://github.com/shiningflash/advance-data-structure/blob/master/sqrt_decomposition.cpp)

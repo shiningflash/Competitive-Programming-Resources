@@ -8,7 +8,7 @@
 [Data Structure](https://github.com/shiningflash/advance-data-structure)
 --------------
 * [Stack](https://github.com/shiningflash/advance-data-structure/blob/master/stack.cpp)
-* [Queue](https://github.com/shiningflash/advance-data-structure/blob/master/Stack.cpp)
+* [Queue](https://github.com/shiningflash/Advance-Data-Structure/blob/master/queue.cpp)
 * [Linked List](https://github.com/shiningflash/Advance-Data-Structure/blob/master/linked_list.cpp)
 * [Circular Linked List](https://github.com/shiningflash/Advance-Data-Structure/blob/master/circular_linked_list.cpp)
 

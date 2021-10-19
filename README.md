@@ -2,8 +2,6 @@
 
 [GET MY CODE LIBRARY](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/Shiningflash%20CodeLibrary.pdf)
 
-[![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=GET MY CODE LIBRARY)](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/Shiningflash%20CodeLibrary.pdf)
-
 ---
 
 ## [Data Structure](https://github.com/shiningflash/advance-data-structure)

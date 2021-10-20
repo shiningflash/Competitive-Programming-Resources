@@ -1,5 +1,7 @@
 # [Programming Topics](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/README.md)
 
+![coding](https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif)
+
 [GET MY CODE LIBRARY](https://github.com/shiningflash/Competitive-Programming-Resources/blob/master/Shiningflash%20CodeLibrary.pdf)
 
 ---

@@ -1,3 +1,13 @@
+"""
+Quick Sort
+
+Time Complexity
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n^2)
+"""
+
+
 def quick_sort(arr):
     if len(arr) < 2:
         return arr

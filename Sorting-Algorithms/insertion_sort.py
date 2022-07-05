@@ -2,12 +2,16 @@
 Insertion Sort
 
 Time Complexity
-Best case: O(N)
-Avg. case: O(N^2)
-Worst case: O(N^2)
+1. Best case: O(N)
+2. Avg. case: O(N^2)
+3. Worst case: O(N^2)
 
 Space Complexity: O(1)
 Stable: Yes
+
+Useage:
+1. small array
+2. few elements left unsorted
 """
 
 

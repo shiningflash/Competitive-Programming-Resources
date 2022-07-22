@@ -34,3 +34,16 @@ if __name__ == '__main__':
         hasParent[v] = True
     root = findRoot(parents, hasParent)
     dfs(graph, 0, root)
+
+
+"""
+OUTPUT
+-
+lifeform
+        animal
+                mammal
+                        cat
+                                lion
+                bird
+                fish
+"""

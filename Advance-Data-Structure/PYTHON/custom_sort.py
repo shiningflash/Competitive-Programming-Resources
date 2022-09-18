@@ -1,3 +1,5 @@
+import functools
+
 arr = [[100, 200], [200, 1300], [1000, 1250], [20, 1300]]
 
 
@@ -18,12 +20,11 @@ arr = [[100, 200], [200, 1300], [1000, 1250], [20, 1300]]
 # print(arr)
 
 
-import functools
-
 def compare(x, y):
     if y[1] > x[1]:
         return 1
     return -1
+
 
 arr = sorted(arr, key=functools.cmp_to_key(compare))
 print(arr)

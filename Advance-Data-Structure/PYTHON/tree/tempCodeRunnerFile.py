@@ -1,1 +1,0 @@
-elif data > self.data

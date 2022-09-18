@@ -13,5 +13,5 @@ def reverse_str(name):
     return rev_name
 
 if __name__ == '__main__':
-    name = 'AIRAF NUZIAF'
+    name = 'DCBA'
     print(reverse_str(name))

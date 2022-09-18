@@ -11,8 +11,9 @@ def read_file(file_name):
     except OSError:
         print("There is a problem")
         raise SystemExit
-    
-if __name__ == '__main__' :
+
+
+if __name__ == '__main__':
     maze = read_file("PYTHON/files/maze.txt")
     for row in maze:
         print(row)

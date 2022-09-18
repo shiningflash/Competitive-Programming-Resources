@@ -38,7 +38,7 @@ def dfs_2d(grid, ROW, COLUMN, visited, row, column):
 
         for i in range(4):
             nx = x + dx[i]
-            ny = x + dy[i]
+            ny = y + dy[i]
             queue.append((nx, ny))
 
 

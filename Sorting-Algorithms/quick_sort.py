@@ -18,7 +18,7 @@ def quick_sort(arr):
     greater_part = []
 
     for x in arr:
-        if x < pivot:
+        if x < pivot
             lower_part.append(x)
         else:
             greater_part.append(x)

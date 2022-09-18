@@ -24,9 +24,7 @@ def bfs_2d(grid, ROW, COLUMN, visited, row, column):
     visited[row][column] = True
 
     while queue:
-        front = queue.popleft()
-        x = front[0]
-        y = front[1]
+        x, y = queue.popleft()
         print(grid[x][y], end=' ')
 
         for i in range(4):

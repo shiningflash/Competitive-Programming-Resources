@@ -28,10 +28,7 @@ def dfs_2d(grid, ROW, COLUMN, visited, row, column):
     queue = [(row, column)]
 
     while queue:
-        top = queue.pop()
-        # print(top, top[0], top[1], '===')
-        x = top[0]
-        y = top[1]
+        x, y = queue.pop()
 
         if not isValid(x, y, ROW, COLUMN, visited):
             continue

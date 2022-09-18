@@ -14,6 +14,8 @@ int L(string s, int i, int j) {
     else return max(L(s, i+1, j), L(s, i, j-1));
 }
 
+
+
 /*
 
 dp[][] ::  for"TURBOVENTILATOR"
@@ -59,7 +61,7 @@ int lps_2D(string s, int n) {
 int lps_1D(string s, int n) {
     int dp[n];
     for (int i = n-1; i >= 0; i--) {
-        int back_up = 0;
+        int back_up = 0;r
         for (int j = i; j < n; j++) {
             if (i == j) dp[j] = 1;
             else if (s[i] == s[j]) {
